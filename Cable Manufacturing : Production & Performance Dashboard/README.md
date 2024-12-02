@@ -90,7 +90,7 @@ Voici trois captures d’écran du tableau de bord final réalisé dans Power BI
 ## 📄 Fichier Power BI Principal
 - **Nom** : `Cable_Manufacturing_ Insights_ Production & Performance Dashboard.pbix`
 - **Description** : Tableau de bord interactif pour explorer les performances commerciales et analyser les produits les plus rentables.
-- **Lien** : [Télécharger le fichier Power BI](https://drive.google.com/drive/folders/ID_DU_DOSSIER_GOOGLE_DRIVE) 
+- **Lien** : [Télécharger le fichier Power BI]([https://drive.google.com/drive/folders/ID_DU_DOSSIER_GOOGLE_DRIVE)](https://drive.google.com/file/d/1Xtn6h-02XOoqeVA-6GG60uDJ06SixhoQ/view?usp=sharing) 
 
 ---
 
