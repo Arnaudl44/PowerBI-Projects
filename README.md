@@ -7,7 +7,7 @@ Ce dépôt contient plusieurs projets réalisés avec Power BI, démontrant mes 
 ## Projets inclus :
 
 ### 1. **Projet : Fabrication de câbles - Tableau de bord de production et performance**  
-- **Lien vers le projet** : [Cable Manufacturing KPI Dashboard](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable_Manufacturing/README.md)  
+- **Lien vers le projet** : [Cable Manufacturing KPI Dashboard](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/README.md).
 - **Objectif** : Analyser les performances de production et les ventes d’une usine de fabrication de câbles.  
 - **Contenu** :
   - Modélisation de données en étoile avec Power Query.
