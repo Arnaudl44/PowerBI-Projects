@@ -104,7 +104,7 @@
 ## 📄 Fichier Power BI Principal
 - **Nom** : `Toy_Store_KPI_Report.pbix`
 - **Description** : Tableau de bord interactif pour suivre les KPI de ventes et explorer les tendances par produit et localisation.
-- **Lien** : [Télécharger le fichier Power BI](#) <!-- Ajouter un lien Google Drive ici -->
+- **Lien** : [Télécharger le fichier Power BI](#) <!-- https://drive.google.com/file/d/1FquLbuNIEXzwyj9m1uVGE4yzglvY9O55/view?usp=sharing -->
 
 ---
 
