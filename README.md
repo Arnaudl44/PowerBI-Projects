@@ -18,7 +18,7 @@ Ce dépôt contient plusieurs projets réalisés avec Power BI, démontrant mes 
 ---
 
 ### 2. **Projet : Tableau de bord KPI pour une chaîne de magasins de jouets**  
-- **Lien vers le projet** : [Toy Store KPI Report](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy_Store_KPI_Report/README.md)  
+- **Lien vers le projet** : [Toy Store KPI Report](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/README.md). 
 - **Objectif** : Suivre les indicateurs clés (KPI) d’une chaîne de magasins de jouets et analyser les tendances par localisation et catégorie de produit.  
 - **Contenu** :
   - Analyse des ventes pour 2022 avec calculs avancés (revenu, profit, marge).
