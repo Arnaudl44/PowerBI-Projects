@@ -15,9 +15,9 @@ Voici trois captures d’écran du tableau de bord final réalisé dans Power BI
 
 ![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_1.png).
 
-![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_2.png)
+![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_2.png).
 
-![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_3.png
+![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_3.png).
 
 ---
 
