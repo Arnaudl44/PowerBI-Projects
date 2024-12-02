@@ -13,7 +13,7 @@
 ## 🖼 Résultat visuel
 Voici trois captures d’écran du tableau de bord final réalisé dans Power BI :
 
-![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/Excel-Projects/blob/main/HR%20Employee%20Survey%20Responses/images/Capture%20d%E2%80%99%C3%A9cran_HR_Employee_Survey_responses.png?raw=true)
+![Aperçu du tableau de bord HR Analysis](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_1.png).
 
 ---
 
