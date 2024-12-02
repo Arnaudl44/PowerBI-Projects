@@ -76,9 +76,7 @@
 ### 1. Power Query
 - **Nettoyage et Transformation des Données** :
   - Fusion des fichiers CSV (`Sales`, `Products`, `Stores`, `Calendar`) pour créer une table de faits et des dimensions.
-  - Ajout de colonnes calculées dans la table **Calendar** :
-    - `Début du mois` (`Start of Month`).
-    - `Début de la semaine` (`Start of Week`).
+  - Ajout de colonnes calculées dans la table **Calendar** 
   - Vérification des types de données, suppression des valeurs nulles et gestion des doublons.
 
 ---
