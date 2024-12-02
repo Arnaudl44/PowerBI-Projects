@@ -88,7 +88,7 @@
     - **DimProducts**, **DimStores**, **DimCalendar** (tables dimensionnelles).
   - Relations définies en respectant les bonnes pratiques (1:N entre dimensions et faits).
 - **Optimisation** :
-  - Hiérarchie temporelle : `Début du mois > Début de la semaine > Date`.
+  - Hiérarchie temporelle.
   - Masquage des clés étrangères dans **FactSales** pour une vue rapport simplifiée.
 
 ---
@@ -111,7 +111,7 @@
 - **Pages de Rapport** :
   - **Page d'Overview** : Résumé global avec KPI clés (transactions, revenu, profit, marge).
   - **Pages par Magasin** :
-    - Création de **22 pages spécifiques** pour chaque magasin avec des détails individualisés.
+    - Création de **pages spécifiques** pour chaque magasin avec des détails individualisés.
     - Navigation facilitée grâce à des **signets** (bookmarks) permettant de basculer entre les pages.
   - **Page d’Extraction** :
     - Tableau détaillé exportable pour l'analyse approfondie.
@@ -127,7 +127,7 @@
 ## 📄 Fichier Power BI Principal
 - **Nom** : `Toy_Store_KPI_Report.pbix`
 - **Description** : Tableau de bord interactif pour suivre les KPI de ventes et explorer les tendances par produit et localisation.
-- **Lien** : [Télécharger le fichier Power BI](https://drive.google.com/drive/folders/ID_GOOGLE_DRIVE)
+- **Lien** : [Télécharger le fichier Power BI](https://drive.google.com/file/d/1FquLbuNIEXzwyj9m1uVGE4yzglvY9O55/view?usp=sharing)
 
 ---
 
