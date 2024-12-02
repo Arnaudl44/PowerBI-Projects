@@ -11,9 +11,19 @@
 ---
 
 ## 🖼 Résultat Visuel
-Voici une capture d’écran du tableau de bord final réalisé dans Power BI :
 
-![Capture d'écran du Toy Store KPI Report](#) <!-- Ajouter une image ici -->
+### 1. Page Overview
+[![Capture d'écran du Toy Store KPI Report - Overview](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Overview.png)](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Overview.png)
+
+---
+
+### 2. Détail par Magasin
+[![Capture d'écran du Toy Store KPI Report - Détail par Magasin](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Store_detail.png)](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Store_detail.png)
+
+---
+
+### 3. Page d'Extraction
+[![Capture d'écran du Toy Store KPI Report - Page d'Extraction](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Extraction.png)](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/images/Capture%20d%E2%80%99%C3%A9cran_Extraction.png)
 
 ---
 
