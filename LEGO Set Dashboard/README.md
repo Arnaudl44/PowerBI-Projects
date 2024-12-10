@@ -18,7 +18,7 @@
 ---
 
 ### 2. Arbre de Décomposition
-![Capture d'écran LEGO Set Explorer - Arbre de Décomposition](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Explorer/images/Page_Arbre.png)
+![Capture d'écran LEGO Set Explorer - Arbre de Décomposition](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran_2_dashboard.png).
 
 ---
 
