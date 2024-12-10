@@ -28,6 +28,19 @@ Ce dépôt contient plusieurs projets réalisés avec Power BI, démontrant mes 
 
 ---
 
+### 3. **Projet : LEGO Set Explorer**
+- **Lien vers le projet** : [LEGO Set Explorer](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Explorer/README.md)
+- **Objectif** : Construire un outil interactif permettant aux utilisateurs de découvrir le set LEGO parfait.
+- **Contenu** :
+  - Nettoyage et transformation des données LEGO publiées entre 1970 et 2022.
+  - Catégorisation des plages d’âge (`Age Range`) et des plages de prix (`Price Range`).
+  - Visualisations interactives :
+    - Page principale avec slicers pour filtrer par thèmes, âge et prix.
+    - Exploration via un arbre de décomposition des sets par catégorie, thème et nom.
+  - Ajout de paramètres dynamiques (`Max Price`) et de fonctionnalités avancées comme les tooltips et bookmarks.
+
+---
+
 ## 🛠 Compétences Power BI mises en avant :
 
 - **Nettoyage et transformation des données** : Utilisation de Power Query pour fusionner, nettoyer, et enrichir les données.
