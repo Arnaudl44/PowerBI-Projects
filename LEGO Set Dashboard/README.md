@@ -79,13 +79,12 @@
 ## 📄 Fichier Power BI Principal
 - **Nom** : `LEGO_Set_Explorer.pbix`
 - **Description** : Rapport interactif pour explorer et filtrer les sets LEGO en fonction de critères multiples.
-- **Lien** : [Télécharger le fichier Power BI](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Explorer/LEGO_Set_Explorer.pbix)
+- **Lien** : [Télécharger le fichier Power BI](https://drive.google.com/file/d/1IohN2Qd-EZ1PAFV65L4zmvUCO2anjlNB/view?usp=sharing)
 
 ---
 
 ## 📚 Ressources
 - [Documentation Power BI](https://learn.microsoft.com/fr-fr/power-bi/)
-- [Données LEGO](https://rebrickable.com/downloads/)
 
 ---
 
