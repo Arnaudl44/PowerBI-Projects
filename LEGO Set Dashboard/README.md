@@ -13,7 +13,7 @@
 ## 🖼 Résultat Visuel
 
 ### 1. Page Principale
-![Capture d'écran LEGO Set Explorer - Page Principale](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Explorer/images/Page_Principale.png)
+![Capture d'écran LEGO Set Explorer - Page Principale](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Dashboard/images/Capture%20d%E2%80%99%C3%A9cran%20_1_dashboard.png)
 
 ---
 
