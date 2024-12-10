@@ -29,7 +29,7 @@ Ce dépôt contient plusieurs projets réalisés avec Power BI, démontrant mes 
 ---
 
 ### 3. **Projet : LEGO Set Explorer**
-- **Lien vers le projet** : [LEGO Set Explorer](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Explorer/README.md)
+- **Lien vers le projet** : [LEGO Set Explorer](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/LEGO%20Set%20Dashboard/README.md)
 - **Objectif** : Construire un outil interactif permettant aux utilisateurs de découvrir le set LEGO parfait.
 - **Contenu** :
   - Nettoyage et transformation des données LEGO publiées entre 1970 et 2022.
