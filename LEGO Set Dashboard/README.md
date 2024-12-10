@@ -85,6 +85,7 @@
 
 ## 📚 Ressources
 - [Documentation Power BI](https://learn.microsoft.com/fr-fr/power-bi/)
-
+- [Guide DAX](https://dax.guide/)
+  
 ---
 
